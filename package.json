@@ -1,0 +1,38 @@
+{
+  "name": "sentimental-dark",
+  "displayName": "Sentimental Dark",
+  "description": "A more changes  minimal version of Binaryify's One Dark Darker Theme.",
+  "version": "1.0.0",
+  "publisher": "lazyComedian",
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoelCrosby/OneDarkDarker"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "keywords": [
+    "one dark",
+    "onedark",
+    "sentimental dark",
+    "candy",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sentimental Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sentimental-dark-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#2d323b",
+    "theme": "dark"
+  }
+}
