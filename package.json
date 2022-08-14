@@ -2,7 +2,7 @@
   "name": "sentimental-dark",
   "displayName": "Sentimental Dark",
   "description": "A more changes  minimal version of Binaryify's One Dark Darker Theme.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "lazyComedian",
   "engines": {
     "vscode": "^1.26.0"
