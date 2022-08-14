@@ -2,14 +2,14 @@
   "name": "sentimental-dark",
   "displayName": "Sentimental Dark",
   "description": "A more changes  minimal version of Binaryify's One Dark Darker Theme.",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "publisher": "lazyComedian",
   "engines": {
     "vscode": "^1.26.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoelCrosby/OneDarkDarker"
+    "url": "https://github.com/lazycomedian/SentimentalDark"
   },
   "categories": [
     "Themes"
