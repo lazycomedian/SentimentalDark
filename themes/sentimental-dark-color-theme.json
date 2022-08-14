@@ -1873,7 +1873,7 @@
     },
     {
       "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
+      "scope": "comment.line.double-slash,comment.block.documentation,storage.type.class.jsdoc",
       "settings": {
         "fontStyle": "italic"
       }

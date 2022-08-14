@@ -2,10 +2,13 @@
   "name": "sentimental-dark",
   "displayName": "Sentimental Dark",
   "description": "A more changes  minimal version of Binaryify's One Dark Darker Theme.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "lazyComedian",
   "engines": {
     "vscode": "^1.26.0"
+  },
+  "scripts": {
+    "package": "npm version prerelease --no-git-tag-version && rm -rf ./sentimental-dark-* && vsce package"
   },
   "repository": {
     "type": "git",
