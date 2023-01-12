@@ -1,9 +1,9 @@
 {
   "name": "sentimental-dark",
   "displayName": "Sentimental Dark",
-  "description": "A more changes  minimal version of Binaryify's One Dark Darker Theme.",
+  "description": "A more changes minimal version of Binaryify's One Dark Darker Theme.",
   "version": "0.1.3",
-  "publisher": "lazyComedian",
+  "publisher": "lazycomedian",
   "engines": {
     "vscode": "^1.26.0"
   },
@@ -17,10 +17,11 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
+  "icon": "./public/octocat.svg",
   "keywords": [
     "one dark",
     "onedark",
+    "sentimental",
     "sentimental dark",
     "candy",
     "theme"

@@ -9,5 +9,3 @@ A more changes minimal version of Binaryify's [One Dark Pro Theme](https://marke
 ![ScreenShot](screenshots/2.png?raw=true)
 
 ![ScreenShot](screenshots/3.png?raw=true)
-
-**Enjoy!**
